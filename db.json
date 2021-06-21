@@ -7,12 +7,12 @@
     {
         "title":"BAZA ZNANJA",
         "dropdown": [
-          { "content": "Splošno"}
-          { "content": "Zakonodaja"}
-          { "content": "Hišni ljubljenčki"}
-          { "content": "Rejne živali"}
-          { "content": "Divje živali"}
-          { "content": "Rejne živali"}
+          { "content": "Splošno"},
+          { "content": "Zakonodaja"},
+          { "content": "Hišni ljubljenčki"},
+          { "content": "Rejne živali"},
+          { "content": "Divje živali"},
+          { "content": "Rejne živali"},
           { "content": "Za otroke"}
           ]
       },
@@ -25,13 +25,13 @@
       {
        "title":"KAKO LAHKO POMAGAM",
         "dropdown": [
-          { "content": "Prostovoljska pomoč"}
-          { "content": "Finančna podpora"}
-          { "content": "Spletna trgovina in stojnice"}
-          { "content": "Izbira načina življenja"}
-          { "content": "Dohodnina"}
-          { "content": "Zoohit trgovina"}
-          { "content": "Zbianje papirja"}
+          { "content": "Prostovoljska pomoč"},
+          { "content": "Finančna podpora"},
+          { "content": "Spletna trgovina in stojnice"},
+          { "content": "Izbira načina življenja"},
+          { "content": "Dohodnina"},
+          { "content": "Zoohit trgovina"},
+          { "content": "Zbianje papirja"},
           { "content": "Želiš izobraževati tudi ti?"}
           ]
       }, {
