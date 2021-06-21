@@ -59,7 +59,26 @@
     "naslov":"Prijave mučenja",
     "besedilo":"Ne obrnite se stran! Preberite, kako ravnati, če opazite mučenje ali zanemarjanje živali."
   }
-]
+],
+  
+  "stevecItems":
+  
+  [
+    {
+      "number": "350",
+      "org":"delavnic za otroke in mladino",
+    }, {
+      "number": "460",
+      "org":"ton zbranega papirja",
+    }, {
+      "number": "32",
+      "org":"organizacij s katerimi sodelujemo",
+    }, {
+      "number": "21",
+      "org":"let delovanja društva",
+    }, 
+      
+  ]
 
 
 }
